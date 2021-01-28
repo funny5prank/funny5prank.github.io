@@ -1,0 +1,44 @@
+{
+    "TvFrance": [
+	    {
+                "TvFranceCanalName": "France 2",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_2%2Fhls%2Findex.m3u8",
+					"TvFranceCanalPlayer":"1"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "France 3",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_3%2Fhls%2Findex.m3u8",
+					"TvFranceCanalPlayer":"1"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "France 4",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_4%2Fhls%2Findex.m3u8",
+					"TvFranceCanalPlayer":"1"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "France 5",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_5%2Fhls%2Findex.m3u8",
+					"TvFranceCanalPlayer":"1"
+					}
+				]
+        }
+  ]
+}
