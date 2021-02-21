@@ -66,7 +66,7 @@
 					{
 				  	"TvFranceCanalType":"m3u8",
 				  	"TvFranceCanalUrl":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_O%2Fhls%2Findex.m3u8",
-					"TvFranceCanalPlayer":"1"
+					"TvFranceCanalPlayer":"2"
 					}
 				]
         },
