@@ -1,0 +1,52 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+        {
+            "id": "6691",
+            "cat_id": "0",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "400 Bullets (2021)",
+            "movie_url": "https://pangkubu.online/gogos/400blts-kjr.mp4",
+            "movie_subtitle": "https://moviefreesub.online/sub/400%20Bullets%20(2021)/400.Bullets.2021.720p.BluRay.800MB.x264-GalaxyRG.srt",
+            "movie_rating": "4.5",
+            "movie_trailer": "https://dood.so/d/r6fhvehm15g9",
+            "quality": "HD",
+            "movie_thumbnail": "12355_3.jpg",
+            "movie_desc": "<p>IMDb 4.5 / 10</p>\r\n\r\n<p>1h 29min&nbsp;|&nbsp;<a href=\\\"\\\\\\\">Action</a>&nbsp;|&nbsp;<a href=\\\"\\\\\\\">2 March 2021 (USA)</a></p>\r\n\r\n<p>400 BULLETS is an edge-of-your-seat Military Action story about what it means to fight for honor instead of profit. The film packs gun battles, epic hand-to-hand fight sequences and witty dialogue into its 90 minute run time.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Tom Paton</a></p>\r\n\r\n<p>Writer:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Tom Paton</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Jean-Paul Ly</a>,&nbsp;<a href=\\\"\\\\\\\">Andrew Lee Potts</a>,&nbsp;<a href=\\\"\\\\\\\">James Warren</a></p>\r\n",
+            "Counter": "678",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/400%20Bullets%20(2021)/400.Bullets.2021.720p.BluRay.800MB.x264-GalaxyRG.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        },
+		{
+            "id": "6638",
+            "cat_id": "-1",
+            "movie_type": "youtube",
+            "SrcLink": "GOOGLE",
+            "movie_title": "The Rescue (2020)",
+            "movie_url": "https://dood.so/e/gu5193zgogh4zgbj67lcxz3akk7r3b40",
+            "movie_subtitle": "",
+            "movie_rating": "6.1",
+            "movie_trailer": "https://sharer.pw/file/v17CJyLK2jc",
+            "quality": "HD",
+            "movie_thumbnail": "36431_1.jpg",
+            "movie_desc": "<p>IMDb 6.1 / 10</p>\r\n\r\n<p>2h 19min&nbsp;|&nbsp;<a href=\"\\\">Action</a>&nbsp;|&nbsp;<a href=\"\\\">18 December 2020 (China)</a></p>\r\n\r\n<p>A rescue unit within the Chinese Coast Guard are forced to overcome their personal differences to resolve a crisis.</p>\r\n\r\n<p>Directors:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Dante Lam</a>,&nbsp;<a href=\"\\\">Chi-Hung Choi</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Maria Wong</a>&nbsp;(as Wong Sze Man),&nbsp;<a href=\"\\\">Tan Yuli</a>&nbsp;|&nbsp;<a href=\"\\\">1 more credit</a>&nbsp;&raquo;</p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Eddie Peng</a>,&nbsp;<a href=\"\\\">Yanlin Wang</a>,&nbsp;<a href=\"\\\">Zhilei Xin</a></p>\r\n",
+            "Counter": "1126",
+            "year": "2020",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Rescue%20(2020)/The.Rescue.2020.CHINESE.1080p.WEBRip.x265-VXT.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}
