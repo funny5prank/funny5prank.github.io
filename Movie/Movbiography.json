@@ -1,0 +1,52 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+         {
+            "id": "6704",
+            "cat_id": "0",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "Pelé (2021)",
+            "movie_url": "https://batubola.online/gogos/pl-ubcr.mp4",
+            "movie_subtitle": "https://moviefreesub.online/sub/Pel%c3%a9%20(2021)/Pele.2021.1080p.WEB.h264-TRIPEL.srt",
+            "movie_rating": "7.2",
+            "movie_trailer": "https://dood.so/d/bebpgntgtz3g",
+            "quality": "HD",
+            "movie_thumbnail": "20096_04.jpg",
+            "movie_desc": "<p>IMDb 7.2 / 10</p>\r\n\r\n<p>1h 48min&nbsp;|&nbsp;<a href=\\\"\\\\\\\">Documentary</a>,&nbsp;<a href=\\\"\\\\\\\">Biography</a>,&nbsp;<a href=\\\"\\\\\\\">Sport</a>&nbsp;|&nbsp;<a href=\\\"\\\\\\\">23 February 2021 (USA)</a></p>\r\n\r\n<p>Looks back at the extraordinary 12-year period in which Pel&eacute;, the only man to win three World Cup titles, went from young superstar in 1958 to national hero in 1970; a radical yet turbulent era in Brazil&rsquo;s history.</p>\r\n\r\n<p>Directors:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Ben Nicholas</a>,&nbsp;<a href=\\\"\\\\\\\">David Tryhorn</a></p>\r\n\r\n<p>Star:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Pel&eacute;</a></p>\r\n",
+            "Counter": "74",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Pel%c3%a9%20(2021)/Pele.2021.1080p.WEB.h264-TRIPEL.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        },
+		{
+            "id": "6655",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "De Gaulle (2020)",
+            "movie_url": "https://srv55.filmmodu.xyz/tt10880402/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "5.9",
+            "movie_trailer": "https://dood.to/d",
+            "quality": "HD",
+            "movie_thumbnail": "23760_3.jpg",
+            "movie_desc": "<p>IMDb 5.9 / 10</p>\r\n\r\n<p>1h 48min&nbsp;|&nbsp;<a href=\"\\\">Biography</a>,&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">History</a>&nbsp;|&nbsp;<a href=\"\\\">4 March 2020 (France)</a></p>\r\n\r\n<p>Paris, June 1940. The de Gaulle couple is confronted with the military and political collapse of France. Charles de Gaulle joins London while Yvonne, his wife, finds herself with her three children on the road of the exodus.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Gabriel Le Bomin</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Gabriel Le Bomin</a>&nbsp;(screenplay),&nbsp;<a href=\"\\\">Val&eacute;rie Ranson-Enguiale</a>&nbsp;(screenplay)&nbsp;|&nbsp;<a href=\"\\\">2 more credits</a>&nbsp;&raquo;</p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Lambert Wilson</a>,&nbsp;<a href=\"\\\">Isabelle Carr&eacute;</a>,&nbsp;<a href=\"\\\">Olivier Gourmet</a></p>\r\n",
+            "Counter": "428",
+            "year": "2020",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/De%20Gaulle%20(2020)/De.Gaulle.(2020).%5b1080p%5d.%5bBluRay%5d.%5b5.1%5d.%5bYTS.MX%5d.eng.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}

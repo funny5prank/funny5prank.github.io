@@ -1,0 +1,52 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+        {
+            "id": "6676",
+            "cat_id": "0",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "I Care a Lot (2021)",
+            "movie_url": "https://batubola.online/gogos/icralt-dcgv.mp4",
+            "movie_subtitle": "https://moviefreesub.online/sub/I%20Care%20a%20Lot%20(2021)/I.Care.A.Lot.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG-HI.srt",
+            "movie_rating": "6.3",
+            "movie_trailer": "https://dood.so/d/9ullg9knuqpo",
+            "quality": "HD",
+            "movie_thumbnail": "50507_4.jpg",
+            "movie_desc": "<p>IMDb 6.3 / 10</p>\r\n\r\n<p>1h 58min&nbsp;|&nbsp;<a href=\\\"\\\\\\\">Comedy</a>,&nbsp;<a href=\\\"\\\\\\\">Crime</a>,&nbsp;<a href=\\\"\\\\\\\">Thriller</a>&nbsp;|&nbsp;<a href=\\\"\\\\\\\">19 February 2021 (USA)</a></p>\r\n\r\n<p>A crooked legal guardian who drains the savings of her elderly wards meets her match when a woman she tries to swindle turns out to be more than she first appears.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">J Blakeson</a></p>\r\n\r\n<p>Writer:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">J Blakeson</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\\\"\\\\\\\">Rosamund Pike</a>,&nbsp;<a href=\\\"\\\\\\\">Peter Dinklage</a>,&nbsp;<a href=\\\"\\\\\\\">Eiza Gonz&aacute;lez</a></p>\r\n",
+            "Counter": "911",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/I%20Care%20a%20Lot%20(2021)/I.Care.A.Lot.2020.1080p.AMZN.WEB-DL.DDP5.1.H.264-CMRG-HI.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        },
+		{
+            "id": "6673",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "The Droving (2020)",
+            "movie_url": "https://tempegor.online/gogos/thdrvng-cgf.mp4",
+            "movie_subtitle": "",
+            "movie_rating": "5.4",
+            "movie_trailer": "https://dood.so/d/s3mfp9zkjmka",
+            "quality": "HD",
+            "movie_thumbnail": "33126_2.jpg",
+            "movie_desc": "<p>IMDb 5.4 / 10</p>\r\n\r\n<p>1h 20min&nbsp;|&nbsp;<a href=\"\\\">Crime</a>,&nbsp;<a href=\"\\\">Mystery</a>,&nbsp;<a href=\"\\\">Thriller</a>&nbsp;|&nbsp;<a href=\"\\\">21 April 2020 (USA)</a></p>\r\n\r\n<p>A man returns from the military in search for his lost sister, who mysteriously went missing around the time of a strange traditional festival called &#39;The Droving&#39;.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">George Popov</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">George Popov</a>,&nbsp;<a href=\"\\\">Jonathan Russell</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Daniel Oldroyd</a>,&nbsp;<a href=\"\\\">Suzie Frances Garton</a>,&nbsp;<a href=\"\\\">Amy Tyger</a></p>\r\n",
+            "Counter": "686",
+            "year": "2020",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Droving%20(2020)/The.Droving.2020.WEBRip.x264-ION10.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}

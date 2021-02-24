@@ -1,0 +1,52 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+        {
+            "id": "6606",
+            "cat_id": "-1",
+            "movie_type": "youtube",
+            "SrcLink": "GOOGLE",
+            "movie_title": "Werewolf (2019)",
+            "movie_url": "https://dood.so/e/z1gbe5eie1n200l6azt6xcfgsz4pevxr",
+            "movie_subtitle": "",
+            "movie_rating": "6.1",
+            "movie_trailer": "https://dood.so/d/cqe9w3lijigs",
+            "quality": "HD",
+            "movie_thumbnail": "40436_1.jpg",
+            "movie_desc": "<p>IMDb 6.1 / 10</p>\r\n\r\n<p>1h 28min&nbsp;|&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">Horror</a>,&nbsp;<a href=\"\\\">War</a>&nbsp;|&nbsp;<a href=\"\\\">29 March 2019 (Poland)</a></p>\r\n\r\n<p>Children liberated from a Nazi concentration camp have to overcome hunger, thirst and vicious dogs in an abandoned mansion surrounded by the forest.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Adrian Panek</a></p>\r\n\r\n<p>Writer:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Adrian Panek</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Kamil Polnisiak</a>,&nbsp;<a href=\"\\\">Nicolas Przygoda</a>,&nbsp;<a href=\"\\\">Sonia Mietielica</a></p>\r\n",
+            "Counter": "1018",
+            "year": "2019",
+            "subtitles": [
+                {
+                    "sub_url": "https://pastebin.com/raw/",
+                    "sub_cc": ""
+                }
+            ]
+        },
+		 {
+            "id": "6654",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "The Angel of Auschwitz (2019)",
+            "movie_url": "https://srv107.filmmodu.xyz/tt8774388/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "6.4",
+            "movie_trailer": "https://dood.to/d",
+            "quality": "HD",
+            "movie_thumbnail": "99628_1.jpg",
+            "movie_desc": "<p>IMDb 6.4 / 10</p>\r\n\r\n<p>1h 41min&nbsp;|&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">Thriller</a>,&nbsp;<a href=\"\\\">War</a>&nbsp;|&nbsp;<a href=\"\\\">17 November 2019 (Brazil)</a></p>\r\n\r\n<p>This is a tale of how the angel of life was confronted by the angel of death. Set in Auschwitz Birkenau, 1944.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Terry Lee Coker</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Bradley Coker</a>,&nbsp;<a href=\"\\\">Terry Lee Coker</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Noeleen Comiskey</a>,&nbsp;<a href=\"\\\">Steven Bush</a>,&nbsp;<a href=\"\\\">Hayley-Marie Axe</a></p>\r\n",
+            "Counter": "535",
+            "year": "2019",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Angel%20of%20Auschwitz%20(2019)/The.Angel.Of.Auschwitz.2019.720p.WEBRip.x264-%5bYTS.LT%5d.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}

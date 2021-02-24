@@ -1,0 +1,60 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+        {
+            "id": "6562",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "Bliss (2021)",
+            "movie_url": "https://srv14.filmmodu.xyz/tt10333426/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "5.1",
+            "movie_trailer": "https://dood.so/d/fzdj6ihmt6ke",
+            "quality": "HD",
+            "movie_thumbnail": "66383_4.jpg",
+            "movie_desc": "<p>IMDb 5.1&nbsp;/ 10</p>\r\n\r\n<p>1h 43min&nbsp;|&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">Romance</a>,&nbsp;<a href=\"\\\">Sci-Fi</a>&nbsp;|&nbsp;<a href=\"\\\">5 February 2021 (USA)</a></p>\r\n\r\n<p>A mind-bending love story following Greg who, after recently being divorced and then fired, meets the mysterious Isabel, a woman living on the streets and convinced that the polluted, broken world around them is a computer simulation.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Mike Cahill</a></p>\r\n\r\n<p>Writer:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Mike Cahill</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Owen Wilson</a>,&nbsp;<a href=\"\\\">Salma Hayek</a>,&nbsp;<a href=\"\\\">Nesta Cooper</a></p>\r\n",
+            "Counter": "2344",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Bliss%20(2021)/Bliss.english.srt",
+                    "sub_cc": "English"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Bliss%20(2021)/Bliss.arabic.srt",
+                    "sub_cc": "Arabic"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Bliss%20(2021)/Bliss.french.srt",
+                    "sub_cc": "french"
+                }
+            ]
+        },
+		{
+            "id": "6554",
+            "cat_id": "-1",
+            "movie_type": "youtube",
+            "SrcLink": "GOOGLE",
+            "movie_title": "Norman (2021)",
+            "movie_url": "https://dood.so/e/ybvve77n8fhuvepkr08fik1zi8hw61d6",
+            "movie_subtitle": "",
+            "movie_rating": "4.5",
+            "movie_trailer": "https://dood.so/d/dd0c78wvu4zt",
+            "quality": "HD",
+            "movie_thumbnail": "77992_4.jpg",
+            "movie_desc": "<p>IMDb 4.5 / 10</p>\r\n\r\n<p><a href=\"\\\">Adventure</a>,&nbsp;<a href=\"\\\">Sci-Fi</a>,&nbsp;<a href=\"\\\">Thriller</a>&nbsp;|&nbsp;<a href=\"\\\">2 February 2021 (USA)</a></p>\r\n\r\n<p>A time traveler and his A.I. companion. Norman becomes trapped and isolated in the past, jeopardizing life in both the past and the future. He must invent a way back to the future before ...&nbsp;<a href=\"\\\">See full summary</a>&nbsp;&raquo;</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Joel Guelzo</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">James Banks</a>,&nbsp;<a href=\"\\\">Joel Guelzo</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Stephen Birge</a>,&nbsp;<a href=\"\\\">Jerry Chesser</a>,&nbsp;<a href=\"\\\">Meme Hussey</a></p>\r\n",
+            "Counter": "1668",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Norman%20(2021)/Norman.english.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}

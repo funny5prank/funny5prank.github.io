@@ -1,0 +1,52 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+       {
+            "id": "6623",
+            "cat_id": "-1",
+            "movie_type": "youtube",
+            "SrcLink": "GOOGLE",
+            "movie_title": "To All the Boys: Always and Forever (2021)",
+            "movie_url": "https://dood.so/e/s91sut2ovtncdurdvytwdxqhshmj4bh1",
+            "movie_subtitle": "",
+            "movie_rating": "6.5",
+            "movie_trailer": "https://dood.so/d/apefzyuvwonm",
+            "quality": "HD",
+            "movie_thumbnail": "71115_3.jpg",
+            "movie_desc": "<p>IMDb 6.5 / 10</p>\r\n\r\n<p>1h 49min&nbsp;|&nbsp;<a href=\"\\\">Comedy</a>,&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">Romance</a>&nbsp;|&nbsp;<a href=\"\\\">12 February 2021 (USA)</a></p>\r\n\r\n<p>Continuing the romantic life of the teenage girl and facing her good and hard times with her friends and family.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Michael Fimognari</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Katie Lovejoy</a>&nbsp;(screenplay by),&nbsp;<a href=\"\\\">Jenny Han</a>&nbsp;(based on the novel by)</p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Lana Condor</a>,&nbsp;<a href=\"\\\">Noah Centineo</a>,&nbsp;<a href=\"\\\">Janel Parrish</a></p>\r\n",
+            "Counter": "1750",
+            "year": "2021",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/To%20All%20the%20Boys%20Always%20and%20Forever%20(2021)/To.All.the.Boys.Always.and.Forever.english.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        },
+		{
+            "id": "6618",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "To All the Boys Ive Loved Before (2018)",
+            "movie_url": "https://srv58.filmmodu.xyz/tt3846674/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "7.1",
+            "movie_trailer": "https://dood.so/d/bpzwlmwrlpcy",
+            "quality": "HD",
+            "movie_thumbnail": "82104_1.jpg",
+            "movie_desc": "<p>IMDb 7.1 / 10</p>\r\n\r\n<p>1h 39min&nbsp;|&nbsp;<a href=\"\\\">Comedy</a>,&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">Romance</a>&nbsp;|&nbsp;<a href=\"\\\">17 August 2018 (USA)</a></p>\r\n\r\n<p>A teenage girl&#39;s secret love letters are exposed and wreak havoc on her love life.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Susan Johnson</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Sofia Alvarez</a>&nbsp;(screenplay by),&nbsp;<a href=\"\\\">Jenny Han</a>&nbsp;(based on the novel by)</p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Lana Condor</a>,&nbsp;<a href=\"\\\">Noah Centineo</a>,&nbsp;<a href=\"\\\">Janel Parrish</a></p>\r\n",
+            "Counter": "894",
+            "year": "2018",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/To%20All%20the%20Boys%20Ive%20Loved%20Before%20(2018)/To.All.the.Boys.Ive.Loved.Before.english.srt",
+                    "sub_cc": "English"
+                }
+            ]
+        }
+		
+    ]
+}

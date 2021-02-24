@@ -1,0 +1,88 @@
+ 
+	 
+ 
+{
+    "FunnprankMovie": [
+       {
+            "id": "6508",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "The Siege of Jadotville (2016)",
+            "movie_url": "https://srv108.filmmodu.xyz/tt3922798/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "7.2",
+            "movie_trailer": "https://dood.so/d/396xoo96du7h",
+            "quality": "HD",
+            "movie_thumbnail": "22798_1.jpg",
+            "movie_desc": "<p>IMDb 7.2 / 10</p>\r\n\r\n<p>1h 48min&nbsp;|&nbsp;<a href=\"\\\">Action</a>,&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">History</a>&nbsp;|&nbsp;<a href=\"\\\">7 October 2016 (USA)</a></p>\r\n\r\n<p>Irish Commandant Pat Quinlan leads a stand off with troops against French and Belgian Mercenaries in the Congo during the early 1960s.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Richie Smyth</a></p>\r\n\r\n<p>Writers:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Kevin Brodbin</a>,&nbsp;<a href=\"\\\">Declan Power</a>&nbsp;(based on the book by)</p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Richard Lukunku</a>,&nbsp;<a href=\"\\\">Danny Sapani</a>,&nbsp;<a href=\"\\\">Andrew Stock</a></p>\r\n",
+            "Counter": "346",
+            "year": "2016",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Siege%20of%20Jadotville%20(2016)/The.Siege.of.Jadotville.english.srt",
+                    "sub_cc": "English"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Siege%20of%20Jadotville%20(2016)/The.Siege.of.Jadotville.danish.srt",
+                    "sub_cc": "danish"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Siege%20of%20Jadotville%20(2016)/The.Siege.of.Jadotville.farsi-persian.srt",
+                    "sub_cc": "farsi/persian"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Siege%20of%20Jadotville%20(2016)/The.Siege.of.Jadotville.french.srt",
+                    "sub_cc": "french"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/The%20Siege%20of%20Jadotville%20(2016)/The%20Siege%20of%20Jadotville.spanish.srt",
+                    "sub_cc": "Spanish"
+                }
+            ]
+        },
+		{
+            "id": "6507",
+            "cat_id": "-1",
+            "movie_type": "live_url",
+            "SrcLink": "GOOGLE",
+            "movie_title": "Darkest Hour (2017)",
+            "movie_url": "https://srv67.filmmodu.xyz/tt4555426/720p.en.m3u8",
+            "movie_subtitle": "",
+            "movie_rating": "7.4",
+            "movie_trailer": "https://dood.so/d/640hhn0irfqm",
+            "quality": "HD",
+            "movie_thumbnail": "37109_2.jpg",
+            "movie_desc": "<p>IMDb 7.4 / 10</p>\r\n\r\n<p>2h 5min&nbsp;|&nbsp;<a href=\"\\\">Biography</a>,&nbsp;<a href=\"\\\">Drama</a>,&nbsp;<a href=\"\\\">History</a>&nbsp;|&nbsp;<a href=\"\\\">22 December 2017 (USA)</a></p>\r\n\r\n<p>In May 1940, the fate of World War II hangs on&nbsp;<a href=\"\\\">Winston Churchill</a>, who must decide whether to negotiate with&nbsp;<a href=\"\\\">Adolf Hitler</a>, or fight on knowing that it could mean the end of the British Empire.</p>\r\n\r\n<p>Director:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Joe Wright</a></p>\r\n\r\n<p>Writer:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Anthony McCarten</a></p>\r\n\r\n<p>Stars:</p>\r\n\r\n<p>&nbsp;<a href=\"\\\">Gary Oldman</a>,&nbsp;<a href=\"\\\">Lily James</a>,&nbsp;<a href=\"\\\">Kristin Scott Thomas</a></p>\r\n",
+            "Counter": "222",
+            "year": "2017",
+            "subtitles": [
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.english.srt",
+                    "sub_cc": "English"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.english2.srt",
+                    "sub_cc": "English Ver.2"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.danish.srt",
+                    "sub_cc": "danish"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.spanish.srt",
+                    "sub_cc": "spanish"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.turkish.srt",
+                    "sub_cc": "turkish"
+                },
+                {
+                    "sub_url": "https://moviefreesub.online/sub/Darkest%20Hour%20(2017)/Darkest.Hour.farsi-persian.srt",
+                    "sub_cc": "farsi-persian"
+                }
+            ]
+        }
+		
+    ]
+}
