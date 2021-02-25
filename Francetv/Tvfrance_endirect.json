@@ -1,0 +1,24 @@
+{
+    "TvFrance": [
+	      {
+                "TvFranceCanalName": "ABC",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_abc_asahi_540/playlist.m3u8?",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        },
+		{
+                "TvFranceCanalName": "MBS",
+                "TvFranceCounterContent": [
+					{
+				  	"TvFranceCanalType":"m3u8",
+				  	"TvFranceCanalUrl":"https://cdn.jpth10.jpnettv.live/jptv/kansi_mbs_540/playlist.m3u8?",
+					"TvFranceCanalPlayer":"2"
+					}
+				]
+        }
+  ]
+}
