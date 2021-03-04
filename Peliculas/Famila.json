@@ -1,0 +1,96 @@
+{
+  "Peliculasarray": [
+   {
+          "ID_CONTENIDO": "86",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "La princesa encantada Una boda real",
+          "CALIFICACION": "81",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2020/08/the-swan-princess-a-royal-wedding.jpg",
+          "CATEGORIA": "Animación | Familiar | Fantasía",
+          "TRAILER": "",
+          "SINOPSIS": "La princesa Odette y el príncipe Derek asistirán a la boda donde la princesa Mei y su amado Chen. Pero fuerzas malévolas están en contra y los planes de la boda se ven empañados, dificultando las condiciones para el amor verdadero.\n\n",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2020/08/the-swan-princess-a-royal-wedding.jpg",
+          "ESTRENO": "2020",
+		  "url":"https://ok.ru/videoembed/2410689661526"
+        },
+        {
+          "ID_CONTENIDO": "47",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Artemis Fowl El mundo subterráneo",
+          "CALIFICACION": "98",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2020/10/artemis-fowl-el-mundo-subterraneo.jpg",
+          "CATEGORIA": "Aventura | Familiar | Fantasía",
+          "TRAILER": "",
+          "SINOPSIS": "Artemis Fowl es un niño prodigio de 12 años y descendiente de un largo linaje de mentes criminales. Pronto se encuentra a sí mismo en una épica batalla en contra de una raza de poderosas hadas subterráneas, que podrían estar detrás de la desaparición de su padre.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2020/10/artemis-fowl-el-mundo-subterraneo.jpg",
+          "ESTRENO": "2020",
+		  "url":"https://ok.ru/videoembed/2410072771158"
+        },
+        {
+          "ID_CONTENIDO": "39",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Dora y la ciudad perdida",
+          "CALIFICACION": "70",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2019/11/dora-y-la-ciudad-perdida.jpg",
+          "CATEGORIA": "Aventura | Familiar",
+          "TRAILER": "",
+          "SINOPSIS": "Dora, una exploradora adolescente, lleva a sus amigos en una gran aventura para salvar a sus padres y resolver el misterio de una ciudad perdida de oro.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2019/11/dora-y-la-ciudad-perdida.jpg",
+          "ESTRENO": "2019",
+		  "url":"https://ok.ru/videoembed/1905714399799"
+        },
+        {
+          "ID_CONTENIDO": "37",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Aladdín",
+          "CALIFICACION": "82",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2019/08/aladdin-4k.jpg",
+          "CATEGORIA": "Aventura | Familiar | Fantasía",
+          "TRAILER": "",
+          "SINOPSIS": "Un joven callejero de noble corazón anhela el amor de la hermosa princesa Jasmine. Cuando consigue una lámpara mágica, usa los poderes del genio para convertirse en un príncipe.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2019/08/aladdin-4k.jpg",
+          "ESTRENO": "2019",
+		  "url":"https://ok.ru/videoembed/1913421367863"
+        },
+        {
+          "ID_CONTENIDO": "35",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Los locos Addams",
+          "CALIFICACION": "72",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2020/01/los-locos-addams.jpg",
+          "CATEGORIA": "Animación | Comedia | Familiar",
+          "TRAILER": "",
+          "SINOPSIS": "La macabra familia se muda a los suburbios donde la amistad de Merlina con la hija de una hostil y conformista anfitriona de un reality show exacerba el conflicto entre las familias.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2020/01/los-locos-addams.jpg",
+          "ESTRENO": "2019",
+		  "url":"https://ok.ru/videoembed/1905073654327"
+        },
+        {
+          "ID_CONTENIDO": "21",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Se busca papá",
+          "CALIFICACION": "69",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2020/09/se-busca-papa.jpg",
+          "CATEGORIA": "comedia | Drama | Familiar",
+          "TRAILER": "",
+          "SINOPSIS": "La mamá de Blanca le prohibió montar su bicicleta de BMX después de que su padre muriera en un accidente. Así que después de leer acerca de una competición BMX que tomará lugar pronto",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2020/09/se-busca-papa.jpg",
+          "ESTRENO": "2020",
+		  "url":"https://ok.ru/videoembed/1900071356983"
+        },
+        {
+          "ID_CONTENIDO": "18",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Extraordinario ",
+          "CALIFICACION": "84",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2018/02/extraordinario.jpg",
+          "CATEGORIA": " Drama | Familiar",
+          "TRAILER": "",
+          "SINOPSIS": "August Pullman, un niño nacido con diferencias faciales, asiste por primera vez al quinto grado en una escuela regular. Basada en la inspiradora historia del bestseller del New York Times.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2018/02/extraordinario.jpg",
+          "ESTRENO": "2017",
+		  "url":"https://ok.ru/videoembed/1900016241207"
+        }
+      
+  ]
+}

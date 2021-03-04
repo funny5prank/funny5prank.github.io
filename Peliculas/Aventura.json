@@ -1,0 +1,97 @@
+{
+  "Peliculasarray": [
+   
+       {
+          "ID_CONTENIDO": "203",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Año uno ",
+          "CALIFICACION": "10",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2010/04/Anhounolatino_poster.jpg",
+          "CATEGORIA": "Aventura | Comedia",
+          "TRAILER": "",
+          "SINOPSIS": "Cuando la pareja de nómadas holgazanes formada por Zed (Jack Black) y Oh (Michael Cera) son exiliados de su primitivo poblado porque Zed come del fruto prohibido, comienzan un viaje de épicas proporciones por todo el mundo antiguo.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2010/04/Anhounolatino_poster.jpg",
+          "ESTRENO": "2009",
+		  "url":"https://ok.ru/videoembed/1956156607031"
+        },
+        {
+          "ID_CONTENIDO": "200",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Volver al futuro 2",
+          "CALIFICACION": "80",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2015/10/back-to-the-future-2.jpg",
+          "CATEGORIA": "Aventura | Comedia | Ciencia ficción",
+          "TRAILER": "",
+          "SINOPSIS": "Después de visitar el año 2015 junto con el Doc Emmett Brown, las cosas se salen de control y Marty McFly debe repetir su visita al año 1955 para prevenir cambios desastrosos en 1985... sin interferir con su primer viaje.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2015/10/back-to-the-future-2.jpg",
+          "ESTRENO": "1989",
+		  "url":"https://ok.ru/videoembed/1956175350327"
+        },
+        {
+          "ID_CONTENIDO": "199",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Volver al futuro 3",
+          "CALIFICACION": "82",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2015/10/back-to-the-future-3.jpg",
+          "CATEGORIA": "Acción | Aventura | Comedia",
+          "TRAILER": "",
+          "SINOPSIS": "Disfrutando una estadía placentera en 1885, el Doc Emmet Brown le deja una carta a Marty McFly con instrucciones sobre dónde encontrar al DeLorean para viajar en el tiempo. Pero un desafortunado descubrimiento lo lleva a Marty a viajar al pasado en ayuda de su amigo.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2015/10/back-to-the-future-3.jpg",
+          "ESTRENO": "1990",
+		  "url":"https://ok.ru/videoembed/1956183935543"
+        },
+        {
+          "ID_CONTENIDO": "198",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Jurassic Park: Parque Jurásico III ",
+          "CALIFICACION": "65",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2015/10/jurassic-park-3.jpg",
+          "CATEGORIA": "Acción | Aventura | Ciencia ficción",
+          "TRAILER": "",
+          "SINOPSIS": "Una decidida pareja acaudalada con motivos ocultos convence al Dr. Alan Grant para que sea su guía en la isla Sorna, donde estaba el segundo laboratorio de InGen, lo cual resulta en un inesperado aterrizaje... e inesperados nuevos habitantes en la isla.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2015/10/jurassic-park-3.jpg",
+          "ESTRENO": "2001",
+		  "url":"https://ok.ru/videoembed/1956156934711"
+        },
+        {
+          "ID_CONTENIDO": "197",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "El mundo perdido: Jurassic Park",
+          "CALIFICACION": "85",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2015/10/el-mundo-perdido-jurassic-park.jpg",
+          "CATEGORIA": " Acción | Aventura | Ciencia ficción",
+          "TRAILER": "",
+          "SINOPSIS": "Cuatro años después del fracaso del Parque Jurásico en la isla Nublar, John Hammond le revela a Ian Malcom que había otra isla, el \"Sitio B\", donde los dinosaurios eran primeramente criados. Un equipo es enviado a esta isla para estudiar los dinosaurios, mientras otro equipo llega con otros planes.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2015/10/el-mundo-perdido-jurassic-park.jpg",
+          "ESTRENO": "1997",
+		  "url":"https://ok.ru/videoembed/1956157065783"
+        },
+        {
+          "ID_CONTENIDO": "196",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Aladdín (1992)",
+          "CALIFICACION": "65",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2019/10/aladdin-1992-4k.jpg",
+          "CATEGORIA": "Animación | Aventura | Comedia",
+          "TRAILER": "",
+          "SINOPSIS": "Un joven de la calle de corazón noble y el Gran Visir del palacio se disputan una lámpara mágica con el poder de hacer realidad sus deseos más profundos.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2019/10/aladdin-1992-4k.jpg",
+          "ESTRENO": "1992",
+		  "url":"https://ok.ru/videoembed/1956157000247"
+        },
+        {
+          "ID_CONTENIDO": "195",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "Star Wars: Episodio I - La amenaza fantasma",
+          "CALIFICACION": "10",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2015/11/star-wars-episodio-1-la-amenaza-fantasma.jpg",
+          "CATEGORIA": "Acción | Aventura | Fantasía",
+          "TRAILER": "",
+          "SINOPSIS": "Dos caballeros Jedi, Obi-Wan Kenobi y Qui-Gonn Jinn, escapan a un bloqueo hostil de la Federación de Comercio para buscar aliados en el planeta Naboo. Luego encuentran un niño quien parece que es el que traerá equilibrio a la Fuerza, pero el desaparecido Sith resurge para reclamar su antigua gloria.",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2015/11/star-wars-episodio-1-la-amenaza-fantasma.jpg",
+          "ESTRENO": "1999",
+		  "url":"https://ok.ru/videoembed/1956192455223"
+        }
+      
+  ]
+}
