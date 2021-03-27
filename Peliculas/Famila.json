@@ -1,0 +1,18 @@
+{
+  "Peliculasarray": [
+   {
+          "ID_CONTENIDO": "86",
+          "TIPO_CONTENIDO": "Pelicula",
+          "movie_title": "La princesa encantada Una boda real",
+          "CALIFICACION": "81",
+          "movie_pic": "https://www.cinecalidad.is/wp-content/uploads/2020/08/the-swan-princess-a-royal-wedding.jpg",
+          "CATEGORIA": "Animación | Familiar | Fantasía",
+          "TRAILER": "",
+          "SINOPSIS": "La princesa Odette y el príncipe Derek asistirán a la boda donde la princesa Mei y su amado Chen. Pero fuerzas malévolas están en contra y los planes de la boda se ven empañados, dificultando las condiciones para el amor verdadero.\n\n",
+          "IMG_FONDO": "https://www.cinecalidad.is/wp-content/uploads/2020/08/the-swan-princess-a-royal-wedding.jpg",
+          "ESTRENO": "2020",
+		  "url":"https://ok.ru/videoembed/2410689661526"
+        }
+      
+  ]
+}
